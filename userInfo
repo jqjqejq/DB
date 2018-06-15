@@ -1,0 +1,3 @@
+ユーザID　｜　パスワード　｜　権限　    ｜　所属　     ｜ データ作成日時　｜　データ作成者　｜　データ更新日時　｜　データ更新者
+userId    | pw          | Authority  | Affiliation | CREATE_DATE     | CREATE_USER    | UPDATE_DTAE     | UPDATE_USER
+varchar(8)|varchar(36)  | varchar(2) | varchar(2)  | TimeStamp       | varchar(8)     | TimeStamp       | varchar(8) 
